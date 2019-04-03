@@ -1,0 +1,5 @@
+h2 {
+  /* 指定方法 */
+  border(-top/right/left/bottom): 枠線の太さ 枠線の種類(solid (直線), dobule(二重線), dashed(破線), dotted(点線)など様々) 枠線の色;
+
+}
