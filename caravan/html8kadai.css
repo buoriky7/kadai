@@ -65,6 +65,33 @@ main{
 	margin:15px 0 5px;
 }
 
+@media screen and (max-width:768px) {
+
+main{
+	width: 90%;
+	margin:50px auto;
+
+}
+
+
+
+	.step-img1{
+		width: 90%;
+		margin-top: 50px;
+		float:none;
+	}
+	.step-img2{
+		width: 90%;
+		margin-top: 20px;
+		float:none;
+	}
+	.step-img3{
+		width: 90%;
+		margin-top: 20px;
+		margin-bottom: 50px;
+		float:none;
+	}
+}
 
 
 
