@@ -70,27 +70,21 @@ main{
 main{
 	width: 90%;
 	margin:50px auto;
-
 }
+    .step-box{
+      float:none;
+      margin:10px auto;
+    }
+
+    .step-box:last-child{
+	margin-bottom: 50px;
+	margin-right: auto;
+    }
+    .step-box:first-child{
+    margin-top: 50px;
+    }
 
 
-
-	.step-img1{
-		width: 90%;
-		margin-top: 50px;
-		float:none;
-	}
-	.step-img2{
-		width: 90%;
-		margin-top: 20px;
-		float:none;
-	}
-	.step-img3{
-		width: 90%;
-		margin-top: 20px;
-		margin-bottom: 50px;
-		float:none;
-	}
 }
 
 
